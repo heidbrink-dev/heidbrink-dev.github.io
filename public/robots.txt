@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://heidbrink.dev/sitemap-index.xml
