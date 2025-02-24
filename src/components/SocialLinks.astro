@@ -1,0 +1,19 @@
+---
+import { SOCIAL_LINKS } from "../consts";
+---
+
+<div class="flex gap-4 items-center">
+  {
+    SOCIAL_LINKS.map(({ href, icon, alt }) => (
+      <a href={href} target="_blank">
+        <img
+          class="hover:scale-110 transition-transform"
+          src={icon}
+          alt={alt}
+          width="32"
+          height="32"
+        />
+      </a>
+    ))
+  }
+</div>

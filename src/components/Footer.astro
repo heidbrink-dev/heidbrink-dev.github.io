@@ -1,0 +1,21 @@
+---
+import SocialLinks from "./SocialLinks.astro";
+
+const today = new Date();
+---
+
+<footer class="p-4 bg-orange-50">
+  <div class="container flex justify-between m-auto items-center">
+    <p>
+      &copy; {today.getFullYear()}
+      <a
+        class="hover:underline"
+        href="https://ariregister.rik.ee/eng/company/17157148/dthn-Technology-Estonia-OÜ"
+        target="_blank"
+      >
+        dthn Technology Estonia OÜ
+      </a>
+    </p>
+    <SocialLinks />
+  </div>
+</footer>
