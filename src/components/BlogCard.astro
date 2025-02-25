@@ -1,0 +1,32 @@
+---
+import type { CollectionEntry } from "astro:content";
+import FormattedDate from "./FormattedDate.astro";
+import TagPills from "./TagPills.astro";
+
+type Props = {
+  post: CollectionEntry<"blog">;
+};
+
+const { post } = Astro.props;
+---
+
+<div class="shadow-lg rounded-4xl">
+  <img
+    class="rounded-t-4xl"
+    style="width: 100%; height: 400px; object-fit: cover;"
+    src={post.data.heroImage}
+    alt={post.data.title}
+  />
+  <div class="p-4 flex justify-between items-start">
+    <div>
+      <p class="text-lg">{post.data.title}</p>
+      <p>
+        <FormattedDate date={post.data.publishedDate} />
+      </p>
+      <TagPills tags={post.data.tags} />
+    </div>
+    <a class="text-blue-800 hover:underline" href={`/blog/${post.id}/`}>
+      Read post
+    </a>
+  </div>
+</div>

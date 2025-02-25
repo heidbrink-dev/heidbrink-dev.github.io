@@ -1,0 +1,27 @@
+---
+import type { CollectionEntry } from "astro:content";
+import BlogCard from "./BlogCard.astro";
+
+interface Props {
+  posts: CollectionEntry<"blog">[];
+}
+
+const { posts } = Astro.props;
+const sortedPosts = posts.sort(
+  (a, b) => b.data.publishedDate.valueOf() - a.data.publishedDate.valueOf(),
+);
+---
+
+{
+  sortedPosts.length > 0 ? (
+    <section class="grid lg:grid-cols-2 grid-cols-1 gap-4">
+      {sortedPosts.map((post) => (
+        <BlogCard post={post} />
+      ))}
+    </section>
+  ) : (
+    <h1 class="pt-8 pb-8 text-xl text-center">
+      Nothing here yet! Come back later. :)
+    </h1>
+  )
+}
