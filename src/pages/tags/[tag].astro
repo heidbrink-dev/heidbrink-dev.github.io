@@ -27,8 +27,9 @@ const { posts } = Astro.props;
 ---
 
 <BaseLayout
-  title={`${SITE_TITLE} - All ${tag} posts`}
+  title={`All posts with tag: ${tag} - ${SITE_TITLE}`}
   description={SITE_DESCRIPTION}
 >
+  <h1 class="text-xl mb-4">All posts with tag: {tag}</h1>
   <BlogGrid posts={posts} />
 </BaseLayout>
