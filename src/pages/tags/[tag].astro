@@ -30,6 +30,6 @@ const { posts } = Astro.props;
   title={`All posts with tag: ${tag} - ${SITE_TITLE}`}
   description={SITE_DESCRIPTION}
 >
-  <h1 class="text-xl mb-4">All posts with tag: {tag}</h1>
+  <h1 class="mb-4">All posts with tag: {tag}</h1>
   <BlogGrid posts={posts} />
 </BaseLayout>
