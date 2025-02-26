@@ -9,7 +9,15 @@ import TagPills from "../components/TagPills.astro";
 
 type Props = CollectionEntry<"blog">["data"];
 
-const { title, description, publishedDate, heroImage, tags } = Astro.props;
+const {
+  title,
+  description,
+  author,
+  publishedDate,
+  updatedDate,
+  heroImage,
+  tags,
+} = Astro.props;
 ---
 
 <html>
@@ -28,17 +36,25 @@ const { title, description, publishedDate, heroImage, tags } = Astro.props;
       alt={title}
     />
     <div class="container m-auto mt-4 mb-4">
-      <p>
-        <FormattedDate date={publishedDate} />
-      </p>
       {
         tags.length > 0 && (
-          <div class="mt-2">
+          <div class="mb-2">
             <TagPills tags={tags} />
           </div>
         )
       }
-      <h1 class="mt-1 mb-4">{title}</h1>
+      <h1>{title}</h1>
+      <p class="text-sm mt-1 mb-4">
+        Written on <FormattedDate date={publishedDate} /> by {author}
+        {
+          updatedDate && (
+            <span>
+              (last updated on
+              <FormattedDate date={updatedDate} />)
+            </span>
+          )
+        }
+      </p>
       <slot />
     </div>
     <Footer />
