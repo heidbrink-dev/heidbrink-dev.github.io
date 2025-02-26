@@ -5,10 +5,11 @@ import BaseHead from "../components/BaseHead.astro";
 import { SITE_TITLE } from "../consts";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
+import TagPills from "../components/TagPills.astro";
 
 type Props = CollectionEntry<"blog">["data"];
 
-const { title, description, publishedDate, heroImage } = Astro.props;
+const { title, description, publishedDate, heroImage, tags } = Astro.props;
 ---
 
 <html>
@@ -30,6 +31,13 @@ const { title, description, publishedDate, heroImage } = Astro.props;
       <p>
         <FormattedDate date={publishedDate} />
       </p>
+      {
+        tags.length > 0 && (
+          <div class="mt-2">
+            <TagPills tags={tags} />
+          </div>
+        )
+      }
       <h1 class="mt-1 mb-4">{title}</h1>
       <slot />
     </div>

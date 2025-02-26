@@ -23,7 +23,13 @@ const { post } = Astro.props;
       <p>
         <FormattedDate date={post.data.publishedDate} />
       </p>
-      <TagPills tags={post.data.tags} />
+      {
+        post.data.tags.length > 0 && (
+          <div class="mt-2">
+            <TagPills tags={post.data.tags} />
+          </div>
+        )
+      }
     </div>
     <a class="text-blue-800 hover:underline" href={`/blog/${post.id}/`}>
       Read post
