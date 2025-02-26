@@ -1,8 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Parkinsans&display=swap");
 @import "tailwindcss";
 
-body {
-  font-family: "Parkinsans", serif;
-  font-optical-sizing: auto;
-  font-weight: 300;
-  font-style: normal;
+@theme {
+  --default-font-family: "Parkinsans";
 }
