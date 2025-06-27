@@ -1,4 +1,5 @@
 ---
+import { Image } from "astro:assets";
 import type { CollectionEntry } from "astro:content";
 import FormattedDate from "./FormattedDate.astro";
 import TagPills from "./TagPills.astro";
@@ -8,31 +9,44 @@ type Props = {
 };
 
 const { post } = Astro.props;
+
+const images = import.meta.glob<{ default: ImageMetadata }>(
+  "/src/assets/blog/*/*.{jpeg,jpg,png,gif}",
+);
+if (!images[post.data.heroImage])
+  throw new Error(
+    `"${post.data.heroImage}" does not exist in glob: "src/assets/blog/*/*.{jpeg,jpg,png,gif}"`,
+  );
 ---
 
 <div class="shadow-lg rounded-4xl">
-  <img
-    class="rounded-t-4xl"
-    style="width: 100%; height: 400px; object-fit: cover;"
-    src={post.data.heroImage}
+  <Image
+    class={`rounded-t-4xl object-cover w-full`}
+    src={images[post.data.heroImage]()}
     alt={post.data.title}
   />
-  <div class="p-4 flex justify-between items-start">
-    <div>
-      <h2>{post.data.title}</h2>
-      <p>
-        <FormattedDate date={post.data.publishedDate} />
-      </p>
-      {
-        post.data.tags.length > 0 && (
-          <div class="mt-2">
-            <TagPills tags={post.data.tags} />
-          </div>
-        )
-      }
+  <div class="p-4">
+    {
+      post.data.tags.length > 0 && (
+        <div class="mt-2">
+          <TagPills tags={post.data.tags} />
+        </div>
+      )
+    }
+    <div class="flex justify-between items-start">
+      <div>
+        <h3>{post.data.title}</h3>
+        <p>
+          <FormattedDate date={post.data.publishedDate} />
+        </p>
+
+        <a
+          class="block justify-self-end text-blue-800 hover:underline"
+          href={`/blog/${post.id}/`}
+        >
+          Read post ⤳
+        </a>
+      </div>
     </div>
-    <a class="text-blue-800 hover:underline" href={`/blog/${post.id}/`}>
-      Read post
-    </a>
   </div>
 </div>
