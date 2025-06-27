@@ -6,11 +6,9 @@ on:
       - master
 
 jobs:
-  deploy:
+  build:
+    name: Build
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      id-token: write
     steps:
       - name: Clone repository
         uses: actions/checkout@v4
@@ -20,6 +18,25 @@ jobs:
         run: bun install --frozen-lockfile
       - name: Build application
         run: bunx --bun astro build
+      - name: Archive build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-result
+          path: |
+            dist
+
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    needs: build
+    permissions:
+      id-token: write
+    steps:
+      - name: Download build artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: build-result
+          path: dist
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
         with:
