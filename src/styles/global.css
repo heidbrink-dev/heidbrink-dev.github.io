@@ -1,27 +1,41 @@
-@import url("https://fonts.googleapis.com/css2?family=Parkinsans&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import "tailwindcss";
 
 @theme {
-  --default-font-family: "Parkinsans";
+  --default-font-family: "Montserrat";
 }
 
 @layer base {
   h1 {
     font-size: var(--text-4xl);
+    padding: calc(2rem / 1) 0;
   }
   h2 {
     font-size: var(--text-3xl);
+    padding: calc(2rem / 2) 0;
   }
   h3 {
     font-size: var(--text-2xl);
+    padding: calc(2rem / 3) 0;
   }
   h4 {
     font-size: var(--text-xl);
+    padding: calc(2rem / 4) 0;
   }
   h5 {
     font-size: var(--text-lg);
+    padding: calc(2rem / 5) 0;
   }
   h6 {
     font-size: var(--text-md);
+    padding: calc(2rem / 6) 0;
+  }
+
+  ol {
+    list-style: decimal;
+  }
+
+  ul {
+    list-style: disc;
   }
 }
