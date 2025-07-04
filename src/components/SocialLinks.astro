@@ -1,12 +1,34 @@
 ---
-import { SOCIAL_LINKS } from "../consts";
+import { Image } from "astro:assets";
+
+import github from "../assets/icons/github.svg";
+import youtube from "../assets/icons/youtube.svg";
+import x from "../assets/icons/x.svg";
+
+const socialLinks = [
+  {
+    href: "https://x.com/heidbrink_dev",
+    icon: x,
+    alt: "X",
+  },
+  {
+    href: "https://github.com/heidbrink-dev",
+    icon: github,
+    alt: "GitHub",
+  },
+  {
+    href: "https://www.youtube.com/@heidbrink_dev",
+    icon: youtube,
+    alt: "YouTube",
+  },
+];
 ---
 
 <div class="flex gap-4 items-center">
   {
-    SOCIAL_LINKS.map(({ href, icon, alt }) => (
+    socialLinks.map(({ href, icon, alt }) => (
       <a href={href} target="_blank">
-        <img
+        <Image
           class="hover:scale-110 transition-transform"
           src={icon}
           alt={alt}
