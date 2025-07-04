@@ -9,62 +9,82 @@ import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import TagPills from "../components/TagPills.astro";
 
-type Props = CollectionEntry<"blog">["data"];
+type Props = {
+  data: CollectionEntry<"blog">["data"];
+  tableOfContents: {
+    depth: Number;
+    slug: string;
+    text: string;
+  }[];
+};
 
-const {
-  title,
-  description,
-  author,
-  publishedDate,
-  updatedDate,
-  heroImage,
-  tags,
-} = Astro.props;
+const { data, tableOfContents } = Astro.props;
 
 const images = import.meta.glob<{ default: ImageMetadata }>(
   "/src/assets/blog/*/*.{jpeg,jpg,png,gif}",
 );
-if (!images[heroImage])
+if (!images[data.heroImage])
   throw new Error(
-    `"${heroImage}" does not exist in glob: "src/assets/blog/*/*.{jpeg,jpg,png,gif}"`,
+    `"${data.heroImage}" does not exist in glob: "src/assets/blog/*/*.{jpeg,jpg,png,gif}"`,
   );
 ---
 
 <html>
   <head>
     <BaseHead
-      title={`${title} - ${SITE_TITLE}`}
-      description={description}
-      image={images[heroImage]()}
+      title={`${data.title} - ${SITE_TITLE}`}
+      description={data.description}
+      image={images[data.heroImage]()}
     />
   </head>
   <body>
     <Header />
     <Image
-      src={images[heroImage]()}
-      alt={title}
-      class={`object-cover w-full h-96`}
+      src={images[data.heroImage]()}
+      alt={data.title}
+      class={`object-cover w-full`}
     />
     <div class="container m-auto mt-4 mb-4">
       {
-        tags.length > 0 && (
+        data.tags.length > 0 && (
           <div class="mb-2">
-            <TagPills tags={tags} />
+            <TagPills tags={data.tags} />
           </div>
         )
       }
-      <h1>{title}</h1>
+      <h1>{data.title}</h1>
       <p class="text-sm mt-1 mb-4">
-        Written on <FormattedDate date={publishedDate} /> by {author}
+        Written on <FormattedDate date={data.publishedDate} /> by {data.author}
         {
-          updatedDate && (
+          data.updatedDate && (
             <span>
               (last updated on
-              <FormattedDate date={updatedDate} />)
+              <FormattedDate date={data.updatedDate} />)
             </span>
           )
         }
       </p>
+
+      <div class="mb-4 border rounded-xl p-4 bg-[#f9f9f9]">
+        <h2>Table of Contents</h2>
+        <ol class="list-none">
+          {
+            tableOfContents
+              .filter((heading) => heading.depth == 2)
+              .map((heading) => (
+                <li>
+                  <a
+                    href={`#${heading.slug}`}
+                    class="hover:underline text-blue-800"
+                  >
+                    {heading.text}
+                  </a>
+                </li>
+              ))
+          }
+        </ol>
+      </div>
+
       <slot />
     </div>
     <Footer />

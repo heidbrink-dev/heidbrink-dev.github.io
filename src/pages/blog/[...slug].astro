@@ -15,9 +15,16 @@ export async function getStaticPaths() {
 type Props = CollectionEntry<"blog">;
 
 const post = Astro.props;
+
+const allPosts = import.meta.glob<{
+  getHeadings: () => { depth: Number; slug: string; text: string }[];
+}>("/src/content/blog/*.{md,mdx}");
+
+const postMetadata = await allPosts[`/${post.filePath}`]();
+
 const { Content } = await render(post);
 ---
 
-<BlogPost {...post.data}>
+<BlogPost data={post.data} tableOfContents={postMetadata.getHeadings()}>
   <Content />
 </BlogPost>
