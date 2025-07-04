@@ -13,52 +13,6 @@ Mới đây, tụi mình vừa hoàn tất thủ tục **xin visa thăm thân (k
 
 Trong bài viết này, mình sẽ chia sẻ **chi tiết quy trình, kinh nghiệm và những lưu ý quan trọng** khi xin **thị thực thăm thân cho người nước ngoài đang sinh sống tại Việt Nam**. Hy vọng sẽ giúp các bạn đang trong hoàn cảnh tương tự có thể chuẩn bị hồ sơ dễ dàng và thuận lợi hơn.
 
-<style jsx>{`
-  .toc-container {
-    border: 2px solid #ddd;
-    border-radius: 8px;
-    padding: 16px 24px;
-    background-color: #f9f9f9;
-    font-family: 'Montserrat', sans-serif;
-    max-width: 600px;
-    margin: 32px auto;
-  }
-  .toc-container h2 {
-    font-size: 20px;
-    margin-bottom: 16px;
-    border-bottom: 1px solid #ccc;
-    padding-bottom: 8px;
-  }
-  .toc-container ul {
-    list-style: none;
-    padding-left: 0;
-  }
-  .toc-container li {
-    margin: 8px 0;
-  }
-  .toc-container a {
-    color: #0077cc;
-    text-decoration: none;
-    font-weight: 500;
-  }
-  .toc-container a:hover {
-    text-decoration: underline;
-  }
-`}</style>
-
-<div className="toc-container">
-  <h2>Nội Dung Chính</h2>
-  <ul>
-    <li><a href="#i-thị-thực-thăm-thân-là-gì">I. Thị Thực Thăm Thân Là Gì?</a></li>
-    <li><a href="#ii-quy-trình-xin-visa-thăm-thân">II. Quy Trình Xin Visa Thăm Thân</a></li>
-    <li><a href="#iii-thành-phần-hồ-sơ-xin-visa-thăm-thân">III. Thành Phần Hồ Sơ Xin Visa Thăm Thân</a></li>
-    <li><a href="#iv-hướng-dẫn-nộp-hồ-sơ-online-xin-cấp-visa-thăm-thân">IV. Hướng Dẫn Nộp Hồ Sơ Online Xin Cấp Visa Thăm Thân</a></li>
-    <li><a href="#v-một-số-lưu-ý-quan-trọng">V. Một Số Lưu Ý Quan Trọng</a></li>
-    <li><a href="#kết-luận">Kết Luận</a></li>
-  </ul>
-</div>
-
-
 ## I. Thị Thực Thăm Thân Là Gì?
 1. **Định nghĩa:** 
 Visa thăm thân là loại thị thực dành cho người nước ngoài có **thân nhân là công dân Việt Nam** hoặc **người nước ngoài đang cư trú hợp pháp tại Việt Nam**. Mục đích là để đoàn tụ gia đình, chăm sóc người thân hoặc thăm vợ/chồng, cha mẹ, con cái.
