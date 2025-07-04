@@ -7,8 +7,6 @@ updatedDate: 2025-06-30
 heroImage: '/src/assets/blog/huong-dan-xin-visa-tham-than-viet-nam-cho-nguoi-nuoc-ngoai-2025/hero.png'
 tags: ["Việt Nam", "Visa", "Family Visa", "Expat"]
 ---
-import Spacer from '../../components/Spacer.astro';
-
 **Xin chào, mình là Hương!** Gia đình mình là vợ Việt chồng Đức, tụi mình đã kết hôn được hơn một năm và hiện đang sinh sống tại Việt Nam. 
 
 Mới đây, tụi mình vừa hoàn tất thủ tục **xin visa thăm thân (ký hiệu TT)** cho chồng mình với **thời hạn 1 năm**. Trước đó, chồng mình có thẻ tạm trú doanh nghiệp do làm việc cho một công ty nước ngoài tại Việt Nam. Khi thẻ sắp hết hạn, tụi mình quyết định **chuyển sang visa diện thăm thân**.
@@ -88,7 +86,6 @@ Xem chi tiết tại **Mục III: Thành Phần Hồ Sơ** bên dưới.
 
 ![Biên lai thu phí visa TT cho người nước ngoài](../../assets/blog/huong-dan-xin-visa-tham-than-viet-nam-cho-nguoi-nuoc-ngoai-2025/visa-application-fee.png)
 
-<Spacer size="1"/>
 
 5. Sau khi thanh toán, nhận kết quả tại Phòng Quản lý Xuất nhập cảnh Công an tỉnh hoặc qua bưu điện.
 
@@ -119,12 +116,10 @@ Sau khi thực hiện nộp hồ sơ online theo danh mục thành phần hồ s
 (4) - Chọn biểu tượng Home để trở về Trang chủ.
 ![Tìm thủ tục cấp thị thực cho NNN tại Việt Nam](../../assets/blog/huong-dan-xin-visa-tham-than-viet-nam-cho-nguoi-nuoc-ngoai-2025/family-visa-search-1.png)
 
-<Spacer size="1"/>
 
 (5) - Tại thanh tìm kiếm của trang web, bạn nhập từ khóa **“Cấp thị thực cho người nước ngoài tại Việt Nam (thực hiện tại cấp tỉnh)”**, sau đó nhấn Enter hoặc chọn biểu tượng kính lúp để bắt đầu tìm kiếm.
 ![Tìm thủ tục cấp thị thực cho NNN tại Việt Nam](../../assets/blog/huong-dan-xin-visa-tham-than-viet-nam-cho-nguoi-nuoc-ngoai-2025/family-visa-search-2.png)
 
-<Spacer size="1"/>
 
 (6) - Hãy nhấp vào kết quả hiển thị thông tin chính xác nhất. Như vậy, bạn đã truy cập vào trang web cung cấp nội dung về thủ tục cấp thị thực cho người nước ngoài tại Việt Nam, do cơ quan cấp tỉnh thực hiện.
 ![Tìm thủ tục cấp thị thực cho NNN tại Việt Nam](../../assets/blog/huong-dan-xin-visa-tham-than-viet-nam-cho-nguoi-nuoc-ngoai-2025/family-visa-search-3.png)
@@ -132,14 +127,12 @@ Sau khi thực hiện nộp hồ sơ online theo danh mục thành phần hồ s
 (7) - Nhấn chọn "Nộp hồ sơ" để bắt đầu quy trình.
 ![Nộp hồ sơ xin visa TT cho NNN online](../../assets/blog/huong-dan-xin-visa-tham-than-viet-nam-cho-nguoi-nuoc-ngoai-2025/visa-application-submission.png)
 
-<Spacer size="1"/>
 
 (8) - Chọn **Cơ quan giải quyết hồ sơ** là Phòng Quản lý Xuất nhập cảnh Công an tỉnh nơi người bảo lãnh tạm trú (từ 12 tháng trở lên) hoặc thường trú.
 
 (9) - Chọn "Đồng ý và tiếp tục".
 ![Lựa chọn DVC](../../assets/blog/huong-dan-xin-visa-tham-than-viet-nam-cho-nguoi-nuoc-ngoai-2025/dvc-options.png)
 
-<Spacer size="1"/>
 
 (10) – Nhập thông tin **Người đề nghị**.
 - **Ảnh chân dung và ảnh trang nhân thân hộ chiếu**: Vui lòng tải ảnh theo đúng định dạng định dạng .jpg hoặc .jpeg, dung lượng dưới 2MB. Làm theo hướng dẫn được in bằng chữ đỏ trên hệ thống.
@@ -149,7 +142,6 @@ Sau khi thực hiện nộp hồ sơ online theo danh mục thành phần hồ s
 
 ![Nhập thông tin người đề nghị xin visa TT](../../assets/blog/huong-dan-xin-visa-tham-than-viet-nam-cho-nguoi-nuoc-ngoai-2025/visa-application-applicant-information.png)
 
-<Spacer size="1"/>
 
 (11) – Nhập thông tin về **Cơ quan/Tổ chức hoặc thân nhân ở Việt Nam mời bảo lãnh**.
 - Bởi vì tụi mình xin visa theo diện thăm thân và nộp hồ sơ online qua tài khoản Dịch vụ công cá nhân nên sẽ được mặc định là **Thân nhân**.
@@ -158,7 +150,6 @@ Sau khi thực hiện nộp hồ sơ online theo danh mục thành phần hồ s
 
 ![Thông tin thân nhân Việt Nam bảo lãnh](../../assets/blog/huong-dan-xin-visa-tham-than-viet-nam-cho-nguoi-nuoc-ngoai-2025/visa-application-sponsor-information.png)
 
-<Spacer size="1"/>
 
 (12) – Nhập **Nội dung đề nghị** và **Nơi tiếp nhận hồ sơ đăng ký**.
 - **Cấp thị thực**: Mình chọn loại **nhiều lần** vì thị thực nhiều lần cho phép chồng mình có thể nhập cảnh vào Việt Nam nhiều lần trong suốt thời gian thị thực còn hiệu lực. Ngược lại, thị thực một lần sẽ bất tiện hơn vì chỉ cho phép người được cấp visa nhập cảnh vào Việt Nam duy nhất một lần trong thời hạn thị thực, và nếu người được cấp rời khỏi lãnh thổ Việt Nam trước ngày hết hạn thị thực này thì khi muốn quay lại Việt Nam sẽ cần phải xin một thị thực mới.
@@ -170,7 +161,6 @@ Sau khi thực hiện nộp hồ sơ online theo danh mục thành phần hồ s
 
 ![Nội dung đề nghị visa thăm thân](../../assets/blog/huong-dan-xin-visa-tham-than-viet-nam-cho-nguoi-nuoc-ngoai-2025/visa-application-content.png)
 
-<Spacer size="1"/>
 
 (13) - Tải lên các tệp scan giấy tờ tại mục **Thành phần hồ sơ** (Bước cuối cùng rồi, cố lên các bạn ơi!)
 - **Tờ khai đề nghị cấp thị thực, gia hạn tạm trú**: Tải lên file scan của tờ khai NA5 đã được in ra, điền đầy đủ thông tin và ký tên.
@@ -185,7 +175,6 @@ Sau khi thực hiện nộp hồ sơ online theo danh mục thành phần hồ s
 
 ![Thành phần hồ sơ visa thăm thân](../../assets/blog/huong-dan-xin-visa-tham-than-viet-nam-cho-nguoi-nuoc-ngoai-2025/visa-application-required-documents.png)
 
-<Spacer size="2"/>
 
 **Chúc mừng! Bạn đã hoàn thành nộp hồ sơ online!** 🎉🎉🎉
 - Sau khi nộp hồ sơ xin cấp thị thực online thành công, hệ thống sẽ cung cấp **mã số hồ sơ** – đây là thông tin quan trong để bạn theo dõi tiến trình xử lý hồ sơ.
