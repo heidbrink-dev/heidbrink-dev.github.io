@@ -57,4 +57,11 @@
   td {
     vertical-align: top;
   }
+
+  blockquote {
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin: 16px 0;
+    background-color: #f9f9f9;
+  }
 }
