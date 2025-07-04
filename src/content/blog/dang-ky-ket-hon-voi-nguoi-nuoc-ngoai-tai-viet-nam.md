@@ -128,7 +128,7 @@ Hồi mình làm hồ sơ đăng ký kết hôn thì vẫn phải xin Giấy xá
 
 Tuy nhiên, từ ngày **09/01/2025**, theo quy định mới tại <u>[Luật Hộ tịch sửa đổi và các văn bản hướng dẫn đi kèm](https://www.moj.gov.vn/qt/tintuc/Pages/van-ban-chinh-sach-moi.aspx?ItemID=5000&utm_source=chatgpt.com)</u>, **các địa phương không còn cấp Giấy xác nhận tình trạng hôn nhân (giấy chứng nhận độc thân)** nữa. Thay vào đó, việc xác nhận tình trạng hôn nhân sẽ được **tích hợp và xác minh thông qua cơ sở dữ liệu hộ tịch điện tử quốc gia**.
 
---> <mark>Nghĩa là bạn không cần đi xin giấy xác nhận độc thân ở nơi thường trú như trước nữa.</mark>
+→ <mark>Nghĩa là bạn không cần đi xin giấy xác nhận độc thân ở nơi thường trú như trước nữa.</mark>
 
 #### Vậy cơ quan chức năng thực hiện xác minh như thế nào?
 - Nếu bạn **sống ở một nơi cố định từ nhỏ đến giờ**, việc tra cứu thông tin sẽ nhanh hơn vì dữ liệu nhất quán.
