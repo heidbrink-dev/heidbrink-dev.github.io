@@ -64,4 +64,9 @@
     margin: 16px 0;
     background-color: #f9f9f9;
   }
+
+  a {
+    @apply hover:underline;
+    @apply text-blue-800;
+  }
 }
