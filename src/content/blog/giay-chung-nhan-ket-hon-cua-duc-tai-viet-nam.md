@@ -72,7 +72,7 @@ b. Các giấy tờ không viết bằng tiếng Anh hoặc tiếng Đức phả
 ## 7. Lệ Phí Tại Đại Sứ Quán Hoặc Tổng Lãnh Sự Quán Đức Tại Việt Nam
 ### a. Lệ phí tại Đại sứ quán hoặc Tổng Lãnh sự quán Đức tại Việt Nam:
 - Chứng nhận bản sao (Beglaubigung von Fotokopien): 25,75 Euro.
-- Chứng nhận chữ ký (Beglaubigung der Unterschriften): 56,43 Euro (nếu bạn có nhu cầu thay đổi họ thì sẽ có thêm khoản phí tuyên bố thay đổi họ sau kết hôn: khoảng 79,57 Euro.)
+- Chứng nhận chữ ký (Beglaubigung der Unterschriften): 56,43 Euro (nếu bạn có nhu cầu thay đổi họ thì mức phí này sẽ là: 79,57 Euro.)
 ### b. Lệ phí tại Standesamt:
 - Phí xử lý hồ sơ: 110 Euro.
 - Phí cấp Giấy chứng nhận kết hôn: 20 Euro/bản.
