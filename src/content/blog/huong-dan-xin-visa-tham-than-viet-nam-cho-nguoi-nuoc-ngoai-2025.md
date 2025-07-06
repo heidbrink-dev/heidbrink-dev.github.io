@@ -30,7 +30,7 @@ Visa thăm thân là loại thị thực dành cho người nước ngoài có *
 Xem chi tiết tại **Mục III: Thành Phần Hồ Sơ** bên dưới.
 
 ### Bước 2: Nộp Hồ Sơ
-1. Truy cập <u>[Cổng Dịch vụ công Bộ Công an](https://dichvucong.bocongan.gov.vn/?home=1)</u> để nộp hồ sơ online.
+1. Truy cập [Cổng Dịch vụ công Bộ Công an](https://dichvucong.bocongan.gov.vn/) để nộp hồ sơ online.
 
 2. Hồ sơ sẽ được kiểm tra, xác minh bởi Phòng Quản lý Xuất nhập cảnh Công an tỉnh và Công an xã/phường.
 
@@ -51,7 +51,7 @@ Sau khi thực hiện nộp hồ sơ online theo danh mục thành phần hồ s
 
 | STT | Tên giấy tờ | Scan | Sao y công chứng | Bản cứng | Lưu ý |
 | :-: | --- | :-: | :-: | :-: | --- |
-| 1 | Đơn xin visa Việt Nam (mẫu NA5) | ✓ | - | ✓ | <u>[Mẫu NA5 mới nhất được ban hành kèm theo TT 22/2023/TT-BCA](https://cdn.thuvienphapluat.vn/phap-luat/2022-2/HT/pl-na5.docx)</u>
+| 1 | Đơn xin visa Việt Nam (mẫu NA5) | ✓ | - | ✓ | [Mẫu NA5 mới nhất được ban hành kèm theo TT 22/2023/TT-BCA](https://cdn.thuvienphapluat.vn/phap-luat/2022-2/HT/pl-na5.docx)
 | 2 | Hộ chiếu của người nước ngoài | ✓ (trang nhân thân) | - | ✓ | Còn hạn tối thiểu 6 tháng và còn trang trắng để dán visa |
 | 3 | 01 ảnh chân dung 4x6 cm | ✓ (file .jpg/.jpeg) | - | - | Ảnh mới chụp, mặt nhìn thẳng, không đội mũ, không đeo kính, trang phục lịch sự, phông ảnh nền trắng ([hướng dẫn quy chuẩn ảnh](https://dichvucong.bocongan.gov.vn/bocongan/tintuc/chitiet?matin=41)) |
 | 4 | Thẻ tạm trú sắp hết hạn (nếu có) | ✓ | - | ✓ | Nộp bản gốc |
@@ -62,7 +62,7 @@ Sau khi thực hiện nộp hồ sơ online theo danh mục thành phần hồ s
 | 9 | Giấy Đăng ký kết hôn | ✓ | ✓ | ✓ | Nộp bản sao y công chứng |
 ## IV. Hướng Dẫn Nộp Hồ Sơ Online Xin Cấp Visa Thăm Thân
 ### Bước 1: Đăng nhập tài khoản trên Cổng Dịch vụ công Bộ Công an (yêu cầu định danh cấp 2).
-Đường link đăng nhập: <u>(https://dichvucong.bocongan.gov.vn/?home=1)</u>. Thực hiện theo các bước (1), (2), (3).
+Đường link đăng nhập: (https://dichvucong.bocongan.gov.vn/). Thực hiện theo các bước (1), (2), (3).
 ![Ảnh minh hoạ bước đăng nhập dịch vụ công](../../assets/blog/huong-dan-xin-visa-tham-than-viet-nam-cho-nguoi-nuoc-ngoai-2025/dvc-step-1-login-1.png)
 ![Ảnh minh hoạ bước đăng nhập dịch vụ công](../../assets/blog/huong-dan-xin-visa-tham-than-viet-nam-cho-nguoi-nuoc-ngoai-2025/dvc-step-1-login-2.png)
 ![Ảnh minh hoạ bước đăng nhập dịch vụ công](../../assets/blog/huong-dan-xin-visa-tham-than-viet-nam-cho-nguoi-nuoc-ngoai-2025/dvc-step-1-login-3.png)

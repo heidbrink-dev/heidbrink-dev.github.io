@@ -61,7 +61,7 @@ Mức lệ phí cụ thể do Hội đồng nhân dân tỉnh, thành phố tr�
 
 | STT | Người chuẩn bị                  | Tên giấy tờ                                                       | Số lượng         | Yêu cầu                                                                                   |
 |-----|---------------------------------|--------------------------------------------------------------------|------------------|-------------------------------------------------------------------------------------------|
-| 1   | Người Việt Nam và người nước ngoài | Tờ khai đăng ký kết hôn                                            | 1 bản gốc        | - Hai bên nam nữ có thể khai chung vào 1 tờ khai (nếu nộp hồ sơ theo hình thức trực tiếp)  <br> - Mẫu tờ khai <u>[ở đây](https://cdn.thuvienphapluat.vn/uploads/tintuc/2022/11/16/to-khai-dang-ky-ket-hon-moi-nhat.docx)</u> |
+| 1   | Người Việt Nam và người nước ngoài | Tờ khai đăng ký kết hôn                                            | 1 bản gốc        | - Hai bên nam nữ có thể khai chung vào 1 tờ khai (nếu nộp hồ sơ theo hình thức trực tiếp)  <br> - Mẫu tờ khai [ở đây](https://cdn.thuvienphapluat.vn/uploads/tintuc/2022/11/16/to-khai-dang-ky-ket-hon-moi-nhat.docx) |
 | 2   | Người Việt Nam và người nước ngoài | Giấy khám sức khoẻ tâm thần để đăng ký kết hôn<br><span class="note">(mình sẽ hướng dẫn cụ thể quy trình này ở Mục IV bên dưới)</span> | 1 bản gốc/người  | Do tổ chức y tế có thẩm quyền ở Việt Nam cấp, chưa quá 6 tháng tính đến ngày nhận hồ sơ |
 | 3   | Người Việt Nam và người nước ngoài | Ảnh chân dung 3x4 cm                                               | 1 ảnh/người      |                                                                                           |
 | 4   | Người nước ngoài                | Giấy chứng minh tình trạng hôn nhân của NNN                        | 1 bản hợp pháp hóa lãnh sự | Bản hợp pháp hóa lãnh sự phải được dịch thuật sang tiếng Việt và công chứng             |
@@ -125,9 +125,9 @@ e. Tờ đăng ký khám sức khoẻ (3 bản) (lấy tại Bệnh viện, phò
 
 ### 3. Giấy Xác Nhận Tình Trạng Hôn Nhân Của Người Việt Nam
 #### Cập nhật mới về giấy xác nhận độc thân khi đăng ký kết hôn với người nước ngoài (từ 09/01/2025)
-Hồi mình làm hồ sơ đăng ký kết hôn thì vẫn phải xin Giấy xác nhận tình trạng hôn nhân như thường và mình đã thực hiện thủ tục xin cấp Giấy xác nhận tình trạng hôn nhân trực tuyến tại <u>[Cổng dịch vụ công Quốc Gia](https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=1.004873)</u>.
+Hồi mình làm hồ sơ đăng ký kết hôn thì vẫn phải xin Giấy xác nhận tình trạng hôn nhân như thường và mình đã thực hiện thủ tục xin cấp Giấy xác nhận tình trạng hôn nhân trực tuyến tại [Cổng dịch vụ công Quốc Gia](https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=1.004873).
 
-Tuy nhiên, từ ngày **09/01/2025**, theo quy định mới tại <u>[Luật Hộ tịch sửa đổi và các văn bản hướng dẫn đi kèm](https://www.moj.gov.vn/qt/tintuc/Pages/van-ban-chinh-sach-moi.aspx?ItemID=5000&utm_source=chatgpt.com)</u>, **các địa phương không còn cấp Giấy xác nhận tình trạng hôn nhân (giấy chứng nhận độc thân)** nữa. Thay vào đó, việc xác nhận tình trạng hôn nhân sẽ được **tích hợp và xác minh thông qua cơ sở dữ liệu hộ tịch điện tử quốc gia**.
+Tuy nhiên, từ ngày **09/01/2025**, theo quy định mới tại [Luật Hộ tịch sửa đổi và các văn bản hướng dẫn đi kèm](https://www.moj.gov.vn/qt/tintuc/Pages/van-ban-chinh-sach-moi.aspx?ItemID=5000), **các địa phương không còn cấp Giấy xác nhận tình trạng hôn nhân (giấy chứng nhận độc thân)** nữa. Thay vào đó, việc xác nhận tình trạng hôn nhân sẽ được **tích hợp và xác minh thông qua cơ sở dữ liệu hộ tịch điện tử quốc gia**.
 
 → <mark>Nghĩa là bạn không cần đi xin giấy xác nhận độc thân ở nơi thường trú như trước nữa.</mark>
 
