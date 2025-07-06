@@ -56,9 +56,9 @@ Thời gian xử lý thường mất khoảng 3 – 4 tuần kể từ khi hồ 
 | STT |	Tên giấy tờ |	Yêu cầu |
 | :-: | :-- | :-- |
 | 1 |	Đơn đăng ký |	Đã điền và ký tên. Tải mẫu từ trang chính thức [ở đây](https://vietnam.diplo.de/resource/blob/2511926/d8bf89f46b98d30b18820278828dec70/250502-anzeige-eheschliessung-formular-data.pdf). |
-| 2 |	Giấy chứng nhận kết hôn Việt Nam | 1 bản hợp pháp hoá + 1 bản sao + 1 bản dịch thuật sang tiếng Đức bởi dịch giả được công nhận tại Đức. Mang bản gốc để đối chiếu <i>(mình sẽ nói thêm chi tiết ở phần lưu ý)</i>. Mang theo giấy tờ gốc để đối chiếu. |
+| 2 |	Giấy chứng nhận kết hôn Việt Nam | 1 bản hợp pháp hoá + 1 bản sao + 1 bản dịch thuật sang tiếng Đức bởi dịch giả được công nhận tại Đức. Mang bản gốc để đối chiếu _(mình sẽ nói thêm chi tiết ở phần lưu ý)_. Mang theo giấy tờ gốc để đối chiếu. |
 | 3 |	Giấy xác nhận tạm trú của cả 2 vợ chồng |	1 bản sao công chứng và dịch thuật sang tiếng Đức mỗi người. |
-| 4 |	Giấy khai sinh gốc của 2 vợ chồng	| Đối với người Việt Nam: 1 bản trích lục khai sinh (đã được hợp pháp hoá) + 1 bản dịch thuật sang tiếng Đức bởi dịch giả chính thức ở Đức <i>(mình sẽ nói thêm chi tiết ở phần lưu ý)</i>. |
+| 4 |	Giấy khai sinh gốc của 2 vợ chồng	| Đối với người Việt Nam: 1 bản trích lục khai sinh (đã được hợp pháp hoá) + 1 bản dịch thuật sang tiếng Đức bởi dịch giả chính thức ở Đức _(mình sẽ nói thêm chi tiết ở phần lưu ý)_. |
 | 5 |	Hộ chiếu của 2 vợ chồng |	Mang bản gốc để đối chiếu. Không giữ lại. |
 | 6 |	Giấy tờ khác (nếu có) |	Nếu đã từng kết hôn trước: giấy kết hôn cũ và quyết định ly hôn (nếu có). Nếu có con chung: giấy khai sinh của các con. |
 

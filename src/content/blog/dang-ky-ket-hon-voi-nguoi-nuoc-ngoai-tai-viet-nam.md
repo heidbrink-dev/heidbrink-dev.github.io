@@ -39,7 +39,7 @@ Mức lệ phí cụ thể do Hội đồng nhân dân tỉnh, thành phố tr�
 | STT | Tỉnh/Thành phố | Lệ phí đăng ký kết hôn |
 |:--:|:----------------|:------------------------:|
 | 1 | Hà Nội | 1.000.000 VNĐ |
-| 2 | TP. HCM | 1.000.000 VNĐ <span class="note">(mức mình đã đóng)</span> |
+| 2 | TP. HCM | 1.000.000 VNĐ (mức mình đã đóng) |
 | 3 | Đà Nẵng | 1.500.000 VNĐ |
 | 4 | Nam Định | 900.000 VNĐ |
 | 5 | Nghệ An | 1.200.000 VNĐ |
@@ -62,7 +62,7 @@ Mức lệ phí cụ thể do Hội đồng nhân dân tỉnh, thành phố tr�
 | STT | Người chuẩn bị                  | Tên giấy tờ                                                       | Số lượng         | Yêu cầu                                                                                   |
 |-----|---------------------------------|--------------------------------------------------------------------|------------------|-------------------------------------------------------------------------------------------|
 | 1   | Người Việt Nam và người nước ngoài | Tờ khai đăng ký kết hôn                                            | 1 bản gốc        | - Hai bên nam nữ có thể khai chung vào 1 tờ khai (nếu nộp hồ sơ theo hình thức trực tiếp)  <br> - Mẫu tờ khai [ở đây](https://cdn.thuvienphapluat.vn/uploads/tintuc/2022/11/16/to-khai-dang-ky-ket-hon-moi-nhat.docx) |
-| 2   | Người Việt Nam và người nước ngoài | Giấy khám sức khoẻ tâm thần để đăng ký kết hôn<br><span class="note">(mình sẽ hướng dẫn cụ thể quy trình này ở Mục IV bên dưới)</span> | 1 bản gốc/người  | Do tổ chức y tế có thẩm quyền ở Việt Nam cấp, chưa quá 6 tháng tính đến ngày nhận hồ sơ |
+| 2   | Người Việt Nam và người nước ngoài | Giấy khám sức khoẻ tâm thần để đăng ký kết hôn (mình sẽ hướng dẫn cụ thể quy trình này ở Mục IV bên dưới) | 1 bản gốc/người  | Do tổ chức y tế có thẩm quyền ở Việt Nam cấp, chưa quá 6 tháng tính đến ngày nhận hồ sơ |
 | 3   | Người Việt Nam và người nước ngoài | Ảnh chân dung 3x4 cm                                               | 1 ảnh/người      |                                                                                           |
 | 4   | Người nước ngoài                | Giấy chứng minh tình trạng hôn nhân của NNN                        | 1 bản hợp pháp hóa lãnh sự | Bản hợp pháp hóa lãnh sự phải được dịch thuật sang tiếng Việt và công chứng             |
 | 5   | Người nước ngoài                | Bản sao hộ chiếu/giấy tờ có giá trị thay thế hộ chiếu              | 1 bản sao y công chứng |                                                                                           |
