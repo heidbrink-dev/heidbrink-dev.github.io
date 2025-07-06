@@ -8,7 +8,7 @@ tags: ["German Marriage Certificate", "German", "Việt Nam", "Marriage", "Expat
 ---
 **Xin chào, mình là Hương!** Gia đình mình là vợ Việt chồng Đức. Chúng mình đã kết hôn được hơn một năm và hiện đang sống tại Việt Nam.
 
-Mình từng viết một bài blog chia sẻ chi tiết về hành trình chuẩn bị hồ sơ đăng ký kết hôn với chồng mình – anh là công dân Đức. Trong bài viết đó, mình kể lại những trải nghiệm thực tế của gia đình mình khi thực hiện thủ tục tại Việt Nam. Vì chồng mình mang quốc tịch Đức nên việc kết hôn tại Việt Nam được pháp luật Đức công nhận mà không cần phải đăng ký lại tại Đức. Đây là một điều thuận lợi mà mình muốn chia sẻ để các bạn trong hoàn cảnh tương tự có thêm thông tin tham khảo.
+Mình từng viết một bài blog chia sẻ chi tiết về hành trình chuẩn bị hồ sơ đăng ký kết hôn với chồng mình – anh là công dân Đức (các bạn có thể đọc thêm về bài viết đó [ở đây](/blog/dang-ky-ket-hon-voi-nguoi-nuoc-ngoai-tai-viet-nam/)). Trong bài viết đó, mình kể lại những trải nghiệm thực tế của gia đình mình khi thực hiện thủ tục tại Việt Nam. Vì chồng mình mang quốc tịch Đức nên việc kết hôn tại Việt Nam được pháp luật Đức công nhận mà không cần phải đăng ký lại tại Đức. Đây là một điều thuận lợi mà mình muốn chia sẻ để các bạn trong hoàn cảnh tương tự có thêm thông tin tham khảo.
 
 Trong bài viết này, mình chia sẻ kinh nghiệm thực tế khi thực hiện thủ tục xin **Giấy chứng nhận kết hôn của Đức** ("Eheurkunde") dành cho các cặp đôi đã kết hôn ở Việt Nam nhưng muốn hôn nhân được ghi nhận trong hệ thống hộ tịch của Đức.
 

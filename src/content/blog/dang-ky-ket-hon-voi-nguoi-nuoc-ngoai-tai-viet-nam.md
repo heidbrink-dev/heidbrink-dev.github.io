@@ -5,7 +5,7 @@ author: Hương Đỗ
 publishedDate: 2025-07-04
 updatedDate: 2025-07-06
 heroImage: '/src/assets/blog/dang-ky-ket-hon-voi-nguoi-nuoc-ngoai-tai-viet-nam/hero.png'
-tags: ["Marriage Registration", "Việt Nam", "Expat"]
+tags: ["Marriage Registration", "Marriage", "Việt Nam", "Expat"]
 ---
 
 **Xin chào, mình là Hương!** Gia đình mình là vợ Việt chồng Đức, tụi mình đã kết hôn được hơn một năm và hiện đang sinh sống tại Việt Nam.
