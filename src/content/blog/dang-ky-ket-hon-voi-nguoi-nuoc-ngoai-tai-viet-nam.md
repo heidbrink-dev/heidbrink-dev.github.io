@@ -3,6 +3,7 @@ title: Lấy chồng Tây ở Việt Nam - Hướng dẫn đăng ký kết hôn 
 description: Bài viết chia sẻ kinh nghiệm thực hiện thủ tục đăng ký kết hôn với người nước ngoài tại Việt Nam, bao gồm làm hồ sơ, lệ phí, quy trình và lưu ý thực tế.
 author: Hương Đỗ
 publishedDate: 2025-07-04
+updatedDate: 2025-07-06
 heroImage: '/src/assets/blog/dang-ky-ket-hon-voi-nguoi-nuoc-ngoai-tai-viet-nam/hero.png'
 tags: ["Marriage Registration", "Việt Nam", "Expat"]
 ---
@@ -123,7 +124,7 @@ d. 4 ảnh chân dung 4x6 cm của mỗi người
 e. Tờ đăng ký khám sức khoẻ (3 bản) (lấy tại Bệnh viện, phòng 118 ở tầng 1)
 
 ### 3. Giấy Xác Nhận Tình Trạng Hôn Nhân Của Người Việt Nam
-#### Cập nhật mới về giấy xác nhận độc thân khi đăng ký kết hôn với người nước ngoài (từ 1/7/2025)
+#### Cập nhật mới về giấy xác nhận độc thân khi đăng ký kết hôn với người nước ngoài (từ 09/01/2025)
 Hồi mình làm hồ sơ đăng ký kết hôn thì vẫn phải xin Giấy xác nhận tình trạng hôn nhân như thường và mình đã thực hiện thủ tục xin cấp Giấy xác nhận tình trạng hôn nhân trực tuyến tại <u>[Cổng dịch vụ công Quốc Gia](https://dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-hanh-chinh.html?ma_thu_tuc=1.004873)</u>.
 
 Tuy nhiên, từ ngày **09/01/2025**, theo quy định mới tại <u>[Luật Hộ tịch sửa đổi và các văn bản hướng dẫn đi kèm](https://www.moj.gov.vn/qt/tintuc/Pages/van-ban-chinh-sach-moi.aspx?ItemID=5000&utm_source=chatgpt.com)</u>, **các địa phương không còn cấp Giấy xác nhận tình trạng hôn nhân (giấy chứng nhận độc thân)** nữa. Thay vào đó, việc xác nhận tình trạng hôn nhân sẽ được **tích hợp và xác minh thông qua cơ sở dữ liệu hộ tịch điện tử quốc gia**.
@@ -134,15 +135,16 @@ Tuy nhiên, từ ngày **09/01/2025**, theo quy định mới tại <u>[Luật H
 - Nếu bạn **sống ở một nơi cố định từ nhỏ đến giờ**, việc tra cứu thông tin sẽ nhanh hơn vì dữ liệu nhất quán.
 - Nếu bạn **chuyển hộ khẩu hoặc cư trú nhiều nơi** (ví dụ sinh ở Hà Nội nhưng hiện sống tại TP.HCM), thì cơ quan tiếp nhận hồ sơ sẽ liên hệ trực tiếp với nơi bạn từng sống để xác minh tình trạng hôn nhân.
 #### Thời gian xác minh: 
-Thời gian xác minh thường khoảng **23 ngày làm việc**, và trong thời gian này họ sẽ xử lý song song cả việc xác minh và thủ tục đăng ký kết hôn.
+Thời gian xác minh thường từ **2 tới trễ nhất là 23 ngày làm việc**, và trong thời gian này họ sẽ xử lý song song cả việc xác minh và thủ tục đăng ký kết hôn.
 
 ## V. Một Vài Lưu Ý Quan Trọng Từ Kinh Nghiệm Của Mình
 1. Về Giấy xác nhận tình trạng hôn nhân dành cho công dân Việt Nam: Hiện nay, một số UBND phường/xã vẫn tiếp tục cấp loại giấy này trong một số trường hợp cụ thể. Vì vậy, mình khuyên các bạn nên chủ động liên hệ trực tiếp với UBND phường hoặc xã nơi mình có hộ khẩu thường trú để xác nhận chính xác xem họ có còn tiếp nhận và giải quyết thủ tục này hay không, tránh mất thời gian và công sức.
-2. Khi đi nộp hồ sơ đăng ký kết hôn ở Bước 2, bên nam hoặc bên nữ **có thể đi nộp hồ sơ một mình** mà không cần có văn bản uỷ quyền của bên còn lại. Mình đã tự đi nộp hồ sơ mà không có sự có mặt của chồng, chỉ cần giải thích là do chồng có công việc không đi được.
-3. Trong quá trình nộp hồ sơ, cán bộ tiếp nhận có thể hỏi một vài câu hỏi như: Quen nhau khi nào, đã tổ chức đám cưới chưa, v.v… Đây chỉ là những câu hỏi chuyện thông thường thôi nên bạn đừng lo lắng, hãy trả lời thành thật và rõ ràng là được.
-4. Khi đi **nhận kết quả, bắt buộc phải có mặt cả 2 người**.
-5. Nên có sự **thống nhất về thông tin địa chỉ** của cả 2 bên nam, nữ trong Giấy khám sức khoẻ và Tờ khai đăng ký. Đối với người Việt Nam, nên lấy địa chỉ thường trú, nếu không có thường trú thì ghi tạm trú. Đối với người nước ngoài, nên ghi địa chỉ tạm trú tại Việt Nam.
-6. Thứ tự trong tên của người nước ngoài: Tên của người nước ngoài thường không theo thứ tự Họ - tên đệm – tên như của Việt Nam, do vậy, điều này thường dẫn tới sự sai sót khi ghi tên của người nước ngoài trong các thủ tục pháp lý Việt Nam. Cán bộ tiếp nhận hồ sơ của bọn mình gợi ý rằng nên **ghi tên người nước ngoài theo đúng thứ tự như trong hộ chiếu** của bạn ấy. Yêu cầu **họ tên trong Tờ khai đăng ký kết hôn và Giấy khám sức khoẻ là phải đồng nhất giống nhau**, nên bạn hãy lưu ý liên hệ trước với cơ quan nhà nước mà bạn dự định nộp hồ sơ để xác nhận về thứ tự tên trước khi đi khám sức khoẻ nhé để tránh việc bạn mất thời gian quay lại nơi khám sức khoẻ để điều chỉnh lại thông tin.
+2. Các **giấy tờ của nước ngoài** như giấy chứng nhận tình trạng hôn nhân của công dân nước ngoài sẽ phải được **hợp pháp hoá lãnh sự tại Đại sứ quán/Tổng Lãnh sự quán Việt Nam tại nước sở tại** trước khi mang sang Việt Nam sử dụng.
+3. Khi đi nộp hồ sơ đăng ký kết hôn ở Bước 2, bên nam hoặc bên nữ **có thể đi nộp hồ sơ một mình** mà không cần có văn bản uỷ quyền của bên còn lại. Mình đã tự đi nộp hồ sơ mà không có sự có mặt của chồng, chỉ cần giải thích là do chồng có công việc không đi được.
+4. Trong quá trình nộp hồ sơ, cán bộ tiếp nhận có thể hỏi một vài câu hỏi như: Quen nhau khi nào, đã tổ chức đám cưới chưa, v.v… Đây chỉ là những câu hỏi chuyện thông thường thôi nên bạn đừng lo lắng, hãy trả lời thành thật và rõ ràng là được.
+5. Khi đi **nhận kết quả, bắt buộc phải có mặt cả 2 người**.
+6. Nên có sự **thống nhất về thông tin địa chỉ** của cả 2 bên nam, nữ trong Giấy khám sức khoẻ và Tờ khai đăng ký. Đối với người Việt Nam, nên lấy địa chỉ thường trú, nếu không có thường trú thì ghi tạm trú. Đối với người nước ngoài, nên ghi địa chỉ tạm trú tại Việt Nam.
+7. Thứ tự trong tên của người nước ngoài: Tên của người nước ngoài thường không theo thứ tự Họ - tên đệm – tên như của Việt Nam, do vậy, điều này thường dẫn tới sự sai sót khi ghi tên của người nước ngoài trong các thủ tục pháp lý Việt Nam. Cán bộ tiếp nhận hồ sơ của bọn mình gợi ý rằng nên **ghi tên người nước ngoài theo đúng thứ tự như trong hộ chiếu** của bạn ấy. Yêu cầu **họ tên trong Tờ khai đăng ký kết hôn và Giấy khám sức khoẻ là phải đồng nhất giống nhau**, nên bạn hãy lưu ý liên hệ trước với cơ quan nhà nước mà bạn dự định nộp hồ sơ để xác nhận về thứ tự tên trước khi đi khám sức khoẻ nhé để tránh việc bạn mất thời gian quay lại nơi khám sức khoẻ để điều chỉnh lại thông tin.
 
 ## Kết Bài
 Trên đây là toàn bộ kinh nghiệm thực tế mình đã trải qua trong quá trình **đăng ký kết hôn với người nước ngoài tại Việt Nam**. Hy vọng bài viết này sẽ giúp bạn chuẩn bị hồ sơ thật suôn sẻ, tiết kiệm thời gian và tránh được những vướng mắc không đáng có.
