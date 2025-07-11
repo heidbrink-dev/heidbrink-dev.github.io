@@ -1,5 +1,5 @@
 ---
-title: Lấy chồng Tây ở Việt Nam - Hướng dẫn đăng ký kết hôn 2025
+title: Lấy Chồng Tây Ở Việt Nam - Hướng Dẫn Đăng Ký Kết Hôn 2025
 description: Bài viết chia sẻ kinh nghiệm thực hiện thủ tục đăng ký kết hôn với người nước ngoài tại Việt Nam, bao gồm làm hồ sơ, lệ phí, quy trình và lưu ý thực tế.
 author: Hương Đỗ
 publishedDate: 2025-07-04
@@ -97,13 +97,13 @@ Bạn nên lưu ý:
 
 #### 2.1. Địa điểm khám:
 
-a. Thành phố Hồ Chí Minh 
+**a. Thành phố Hồ Chí Minh:**
 - Nhà mình ở TP. HCM nên đã đi khám tại Bệnh Viện Tâm Thần Thành Phố Hồ Chí Minh, số 766 Võ Văn kiệt, Phường 1, Quận 5, TP. HCM. Chi phí: 600.000 VNĐ/người (kết quả lấy luôn trong ngày), 400.000 VNĐ/người (kết quả có trong 2-3 ngày).
 - Ngoài ra, bạn có thể tới: 
-  - Bệnh Viện Chợ Rẫy, số 201B Nguyễn Chí Thanh, Phường 12, Quận 5, TP. HCM.
-  - Trung Tâm Pháp Y Tâm Thần khu vực TP. HCM, số 152-154 Hồng Bàng, Phường 2, Quận 5, TP. HCM. Chi phí: 600.000 VNĐ cho 2 người.
+Bệnh Viện Chợ Rẫy, số 201B Nguyễn Chí Thanh, Phường 12, Quận 5, TP. HCM. Hoặc:
+Trung Tâm Pháp Y Tâm Thần khu vực TP. HCM, số 152-154 Hồng Bàng, Phường 2, Quận 5, TP. HCM. Chi phí: 600.000 VNĐ cho 2 người.
 
-b. Hà Nội:
+**b. Hà Nội:**
 - Bệnh Viện Bạch Mai, số 78 Đ. Giải Phóng, Phương Đình, Đống Đa, Hà Nội.
 - Bệnh Viện Việt Pháp, số 1 Phương Mai, Đống Đa, Hà Nội.
 - Trung Tâm Pháp Y Hà Nội, địa chỉ tại Chung cư B6A, P. Nguyễn Chánh, Khu đô thị Nam Trung Yên, Cầu Giấy, Hà Nội. Chi phí: 1.500.000 VNĐ cho 2 người.

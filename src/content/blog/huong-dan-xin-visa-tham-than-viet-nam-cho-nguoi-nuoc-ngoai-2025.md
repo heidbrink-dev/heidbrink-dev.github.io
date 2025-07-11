@@ -1,5 +1,5 @@
 ---
-title: Hướng dẫn xin visa thăm thân Việt Nam cho người nước ngoài 2025
+title: Hướng Dẫn Xin Visa Thăm Thân Việt Nam Cho Người Nước Ngoài 2025
 description: Hướng dẫn xin visa thăm thân TT tại Việt Nam cho người nước ngoài năm 2025. Kèm quy trình online, giấy tờ và lưu ý thực tế.
 author: Hương Đỗ
 publishedDate: 2025-06-27
@@ -110,8 +110,10 @@ Sau khi thực hiện nộp hồ sơ online theo danh mục thành phần hồ s
 - **Có giá trị đến ngày**: Nhập ngày mà bạn mong muốn thị thực có hiệu lực đến thời điểm đó. Lưu ý: thời hạn thị thực diện thăm thân thông thường **không quá 12 tháng**.
 - **Lý do**: Điền rõ mục đích xin thị thực. Trong trường hợp của tụi mình là “**Thăm thân**”. Nếu lý do của bạn đặc biệt hơn và cần giải thích cụ thể, bạn có thể trình bày chi tiết tại mục **Những điều cần trình bày thêm**.
 - **Nơi nhận thị thực**: Lựa chọn nơi bạn (hoặc người được bảo lãnh) muốn nhận kết quả:
-  - Nhận trực tiếp: Chọn nếu bạn muốn đến nhận kết quả tại Phòng Quản lý Xuất nhập cảnh Công an tỉnh nơi đã nộp hồ sơ.
-  - Nhận qua bưu chính: Phù hợp nếu bạn ở xa. Kết quả sẽ được gửi qua đường bưu điện hành chính công, chi phí vận chuyển do người nhận thanh toán.
+
+Nhận trực tiếp: Chọn nếu bạn muốn đến nhận kết quả tại Phòng Quản lý Xuất nhập cảnh Công an tỉnh nơi đã nộp hồ sơ.
+
+Nhận qua bưu chính: Phù hợp nếu bạn ở xa. Kết quả sẽ được gửi qua đường bưu điện hành chính công, chi phí vận chuyển do người nhận thanh toán.
 
 ![Nội dung đề nghị visa thăm thân](../../assets/blog/huong-dan-xin-visa-tham-than-viet-nam-cho-nguoi-nuoc-ngoai-2025/visa-application-content.png)
 
@@ -119,11 +121,15 @@ Sau khi thực hiện nộp hồ sơ online theo danh mục thành phần hồ s
 (13) - Tải lên các tệp scan giấy tờ tại mục **Thành phần hồ sơ** (Bước cuối cùng rồi, cố lên các bạn ơi!)
 - **Tờ khai đề nghị cấp thị thực, gia hạn tạm trú**: Tải lên file scan của tờ khai NA5 đã được in ra, điền đầy đủ thông tin và ký tên.
 - **Giấy tờ chứng minh lý do được gia hạn tạm trú để tiếp tục ở lại Việt Nam – nếu có**: Tải lên một file duy nhất bao gồm các tài liệu sau:
-  - Thẻ tạm trú sắp hết hạn (2 mặt);
-  - Thông tin đăng ký tạm trú của người nước ngoài;
-  - Trang hộ chiếu chứa dấu nhập cảnh gần nhất của người nước ngoài;
-  - Giấy tờ tuỳ thân của người bảo lãnh (CCCD 2 mặt);
-  - Xác nhận thông tin về cư trú của người bảo lãnh (Mẫu CT07).
+Thẻ tạm trú sắp hết hạn (2 mặt);
+
+Thông tin đăng ký tạm trú của người nước ngoài;
+
+Trang hộ chiếu chứa dấu nhập cảnh gần nhất của người nước ngoài;
+
+Giấy tờ tuỳ thân của người bảo lãnh (CCCD 2 mặt);
+
+Xác nhận thông tin về cư trú của người bảo lãnh (Mẫu CT07).
 - **Giấy tờ chứng minh lý do được cấp thị thực, thẻ tạm trú**: Các giấy tờ chứng minh lý do như giấy phép lao động, chứng nhận đầu tư, v.v… Với bọn mình thì bọn mình tải lên **Giấy đăng ký kết hôn**.
 - Sau khi hoàn tất, nhấn "Đồng ý và tiếp tục". Hệ thống sẽ chuyển bạn tới trang xác nhận toàn bộ thông tin và tài liệu đã cung cấp. Nếu phát hiện thông tin chưa chính xác, bạn có thể nhấn "Quay lại" để chỉnh sửa. Nếu mọi thứ đã chính xác và đầy đủ, nhấn "Nộp hồ sơ" để hoàn tất quy trình.
 
@@ -131,7 +137,7 @@ Sau khi thực hiện nộp hồ sơ online theo danh mục thành phần hồ s
 
 
 **Chúc mừng! Bạn đã hoàn thành nộp hồ sơ online!** 🎉🎉🎉
-- Sau khi nộp hồ sơ xin cấp thị thực online thành công, hệ thống sẽ cung cấp **mã số hồ sơ** – đây là thông tin quan trong để bạn theo dõi tiến trình xử lý hồ sơ.
+- Sau khi nộp hồ sơ xin cấp thị thực online thành công, hệ thống sẽ cung cấp **mã số hồ sơ** – đây là thông tin quan trọng để bạn theo dõi tiến trình xử lý hồ sơ.
 - Ở phần Thông tin người nộp, bạn sẽ thấy hiển thị họ tên và số điện thoại của người đề nghị xin thị thực. Ngay bên dưới là các mốc thời gian cập nhật trạng thái hồ sơ, giúp bạn nắm rõ quá trình xét duyệt.
 - Sau khi hoàn tất việc nộp hồ sơ online, cán bộ Xuất nhập cảnh sẽ tiến hành kiểm tra và phản hồi trong vòng 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ. Trong trường hợp của mình, thời gian phản hồi diễn ra rất nhanh – chỉ sau 1 ngày, mình đã nhận được thông báo yêu cầu bổ sung hồ sơ qua cả email và tin nhắn SMS.
 
