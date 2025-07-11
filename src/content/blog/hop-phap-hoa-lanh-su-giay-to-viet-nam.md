@@ -101,7 +101,7 @@ Giấy chứng nhận đăng ký kinh doanh: Cơ quan cấp thường là Sở k
 
 Đối với bản sao: Bạn xem tên người ký trong dấu/mộc chứng nhận sao y đúng với bản chính hay bản sao y bản chính.
 > **Lưu ý**: Để tránh lỗi font, nên viết IN HOA tên người ký.
-- Chức danh: Điền tương tự như ở mục 7 - Người ký.
+- Chức danh: Điền tương tự như ở mục **Người ký**.
 - Ngày ký: Giấy khai sinh, trích lục khai sinh, ngày ký ở phần góc phải bên dưới của giấy tờ.
 ![Tờ khai chứng nhận lãnh sự](../../assets/blog/hop-phap-hoa-lanh-su-giay-to-viet-nam/to-khai-chung-nhan-lanh-su-2.png)
 
