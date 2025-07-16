@@ -3,7 +3,7 @@ title: Lấy Chồng Tây Ở Việt Nam - Hướng Dẫn Đăng Ký Kết Hôn 
 description: Bài viết chia sẻ kinh nghiệm thực hiện thủ tục đăng ký kết hôn với người nước ngoài tại Việt Nam, bao gồm làm hồ sơ, lệ phí, quy trình và lưu ý thực tế.
 author: Hương Đỗ
 publishedDate: 2025-07-04
-updatedDate: 2025-07-06
+updatedDate: 2025-07-16
 heroImage: '/src/assets/blog/dang-ky-ket-hon-voi-nguoi-nuoc-ngoai-tai-viet-nam/hero.png'
 tags: ["Marriage Registration", "Marriage", "Việt Nam", "Expat"]
 ---
@@ -66,7 +66,7 @@ Mức lệ phí cụ thể do Hội đồng nhân dân tỉnh, thành phố tr�
 | 3   | Người Việt Nam và người nước ngoài | Ảnh chân dung 3x4 cm                                               | 1 ảnh/người      |                                                                                           |
 | 4   | Người nước ngoài                | Giấy chứng minh tình trạng hôn nhân của NNN                        | 1 bản hợp pháp hóa lãnh sự | Bản hợp pháp hóa lãnh sự phải được dịch thuật sang tiếng Việt và công chứng             |
 | 5   | Người nước ngoài                | Bản sao hộ chiếu/giấy tờ có giá trị thay thế hộ chiếu              | 1 bản sao y công chứng |                                                                                           |
-| 6   | Người nước ngoài                | Giấy xác nhận cư trú của NNN tại Việt Nam                          | 1 bản sao         |                                                                                           |
+| 6   | Người nước ngoài                | Giấy xác nhận cư trú của NNN tại Việt Nam                          | 1 bản sao         |          (nếu đăng ký kết hôn tại nơi tạm trú) |                                                                                 |
 | 7   | Người Việt Nam                 | Giấy xác nhận độc thân của công dân Việt Nam                       | 1 bản sao         |                                                                                           |
 | 8   | Người Việt Nam                 | Giấy xác nhận cư trú của người Việt Nam                            | 1 bản sao         |                                                                                           |
 
