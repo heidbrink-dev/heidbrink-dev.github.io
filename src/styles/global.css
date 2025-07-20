@@ -72,7 +72,8 @@
 
 @layer components {
   .blog img {
-    @apply max-w-1/2;
+    @apply max-w-full;
     @apply mx-auto my-2;
+    @apply md:max-w-1/2;
   }
 }
