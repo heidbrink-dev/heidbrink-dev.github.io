@@ -74,6 +74,10 @@
     @apply hover:underline;
     @apply text-blue-800;
   }
+
+  .container {
+    @apply px-2;
+  }
 }
 
 @layer components {
