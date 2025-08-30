@@ -8,6 +8,7 @@ import { SITE_TITLE } from "../consts";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import TagPills from "../components/TagPills.astro";
+import Lightbox from "../components/Lightbox.astro";
 
 type Props = {
   data: CollectionEntry<"blog">["data"];
@@ -82,6 +83,7 @@ if (!images[data.heroImage])
 
       <slot />
     </div>
+    <Lightbox />
     <Footer />
   </body>
 </html>
