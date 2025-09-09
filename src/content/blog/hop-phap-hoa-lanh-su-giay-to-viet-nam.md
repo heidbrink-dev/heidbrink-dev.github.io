@@ -3,6 +3,7 @@ title: Đi Đức Không Khó - Tự Làm Hợp Pháp Hóa Giấy Tờ Nhanh Ch�
 description: Thủ tục hợp pháp hóa lãnh sự giấy tờ Việt Nam để dùng tại Đức - hướng dẫn chi tiết, dễ hiểu, tiết kiệm chi phí, không cần dịch vụ, cập nhật mới nhất 2025.
 author: Hương Đỗ
 publishedDate: 2025-07-11
+updatedDate: 2025-09-09
 heroImage: '/src/assets/blog/hop-phap-hoa-lanh-su-giay-to-viet-nam/hero.png'
 tags: ["Legalization", "German", "Việt Nam", "Expat"]
 ---
@@ -23,15 +24,17 @@ Chỉ khi hoàn tất 2 bước này, giấy tờ của bạn mới có thể d�
 
 ## II. Các Loại Giấy Tờ Thường Cần Hợp Pháp Hoá Để Sử Dụng Tại Đức
 Thông thường, các giấy tờ Việt Nam cần được hợp pháp hóa để có thể sử dụng tại các cơ quan có thẩm quyền của Đức, bao gồm:
-1. Giấy khai sinh.
-2. Giấy đăng ký kết hôn (nếu đăng ký tại Việt Nam).
-3. Giấy chứng nhận độc thân.
-4. Sổ hộ khẩu/đăng ký tạm trú.
-5. Bằng tốt nghiệp, học bạ.
-6. Giấy xác nhận nghề nghiệp.
-7. Lý lịch tư pháp.
+1. Giấy khai sinh/Trích lục Khai sinh
+2. Giấy đăng ký kết hôn (nếu đăng ký tại Việt Nam)/Trích lục Kết hôn
+3. Giấy xác nhận tình trạng hôn nhân
+4. Giấy chứng tử/Trích lục Khai tử
+5. Trích lục đăng ký nhận cha, con
+6. Xác nhận thông tin về cư trú
+7. Lý lịch tư pháp
 8. Quyết định ly hôn, v.v…
 > **Lưu ý**: Trước khi làm, hãy kiểm tra yêu cầu từ phía Đức (cơ quan tiếp nhận, sở ngoại kiều, toà án, v.v…) để biết chính xác họ cần giấy gì, dịch ra sao, và có yêu cầu hợp pháp hóa hay không. Có nơi chỉ cần dịch công chứng, có nơi yêu cầu dịch bởi dịch giả được công nhận tại Đức.
+
+> Nếu giấy tờ của bạn không nằm trong danh sách các loại giấy tờ có thể làm hợp pháp hoá ở trên thì bạn nên liên hệ trực tiếp với Đại Sứ Quán/Tổng Lãnh Sự Quán để được tư vấn thêm.
 
 ## III. Quy Trình Hợp Pháp Hoá Lãnh Sự Giấy Tờ Việt Nam Để Dùng Tại Đức
 
