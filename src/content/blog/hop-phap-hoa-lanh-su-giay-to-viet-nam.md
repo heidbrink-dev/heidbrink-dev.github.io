@@ -220,7 +220,7 @@ b. Đặt lịch hẹn: Bạn có thể nộp hồ sơ hợp pháp hoá lãnh s�
 #### Hồ sơ chuẩn bị:
 | STT | Tên giấy tờ | Yêu cầu |
 | :-: | :-- | :-- |
-| 1 | Hộ chiếu | Bản gốc + 1 bản photo công chứng. |
+| 1 | Hộ chiếu | Bản gốc + 1 bản photo. |
 | 2 | Giấy tờ đề nghị hợp pháp hoá lãnh sự | Bản dịch sang tiếng Đức của giấy tờ đã được chứng nhận lãnh sự + 1 bản photo. |
 | 3 | Giấy uỷ quyền | Nếu nhờ người khác nộp hộ. |
 
