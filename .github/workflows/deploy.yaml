@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Clone repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
       - name: Set up Bun
         uses: oven-sh/setup-bun@v2
       - name: Install dependencies
@@ -19,7 +19,7 @@ jobs:
       - name: Build application
         run: bunx --bun astro build
       - name: Archive build artifacts
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v7
         with:
           name: build-result
           retention-days: 7
@@ -34,12 +34,12 @@ jobs:
       id-token: write
     steps:
       - name: Download build artifacts
-        uses: actions/download-artifact@v6
+        uses: actions/download-artifact@v8
         with:
           name: build-result
           path: dist
       - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@v5
+        uses: aws-actions/configure-aws-credentials@v6
         with:
           role-to-assume: ${{ vars.AWS_ROLE_ARN }}
           role-session-name: GitHubActionsAssumedRole
