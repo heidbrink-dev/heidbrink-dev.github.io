@@ -5,53 +5,27 @@ on:
     branches:
       - master
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   build:
-    name: Build
     runs-on: ubuntu-latest
     steps:
-      - name: Clone repository
+      - name: Checkout your repository using git
         uses: actions/checkout@v6
-      - name: Set up Bun
-        uses: oven-sh/setup-bun@v2
-      - name: Install dependencies
-        run: bun install --frozen-lockfile
-      - name: Build application
-        run: bunx --bun astro build
-      - name: Archive build artifacts
-        uses: actions/upload-artifact@v7
-        with:
-          name: build-result
-          retention-days: 7
-          path: |
-            dist
+      - name: Install, build, and upload your site
+        uses: withastro/action@v6
 
   deploy:
-    name: Deploy
-    runs-on: ubuntu-latest
     needs: build
-    permissions:
-      id-token: write
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Download build artifacts
-        uses: actions/download-artifact@v8
-        with:
-          name: build-result
-          path: dist
-      - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@v6
-        with:
-          role-to-assume: ${{ vars.AWS_ROLE_ARN }}
-          role-session-name: GitHubActionsAssumedRole
-          aws-region: ${{ vars.AWS_REGION }}
-      - name: Deploy to S3
-        run: |
-          aws s3 sync \
-            --delete \
-            dist \
-            s3://${{ vars.S3_BUCKET_NAME }}
-      - name: Invalidate CloudFront distribution
-        run: |
-          aws cloudfront create-invalidation \
-            --distribution-id ${{ vars.CLOUDFRONT_DISTRIBUTION_ID }} \
-            --paths '/*'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
