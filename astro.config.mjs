@@ -13,4 +13,7 @@ export default defineConfig({
       tailwindcss()
     ],
   },
+  redirects: {
+    "blog/golden2-how-i-became-an-aws-golden-jacket-and-cncf-golden-kubestronaut-in-12-weeks": "https://www.dthn.io/blog/golden2-how-i-became-an-aws-golden-jacket-and-cncf-golden-kubestronaut-in-12-weeks/",
+  }
 });
